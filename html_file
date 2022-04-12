@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" type="text/css" href="template.css">
+    <script src="https://kit.fontawesome.com/265b320ee8.js"></script>
+</head>
+<body>
+   <div class="head">
+     <div class="headl">
+       <div class="lc1">
+         <div class="clgs" style="font-weight:1000">349</div>
+         <div>results</div>
+         <div>found</div>
+          <a href="#" class:"modify"><i class="fa fa-refresh">modify</i></a>
+       </div>
+       <div class="lc2">
+         <div style="font-weight:1000">EAPCET</div>          
+         <div>rank</div>
+         <div>:</div>
+         <div class="rank">9879</div>
+         <div>|</div>
+         <div>category</div>
+         <div>:</div>
+         <div>bc-b</div>
+        </div>
+</div>
+      <div class="savelist">save list</div>
+</div>
+
+  
+                                                      <!--cards-->
+
+  <div class="cards">
+    <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                  <a class="institutename" href="#">SV University tirupati , balaji colony</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Tirupati                  
+                    <span class="pipe">|</span>
+                    <div class="code">SVUCE</div>
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="branchcode">CSE</div>
+                    <div class="pipe"> | </div>
+                    <div class="chancesorange">High </div>
+                    <div class="pipe"> | </div>
+                    <div>Fee</div>
+                    <div>:</div>
+                    <div class="fees">₹39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">SV University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Tirupati                  
+                    <span class="pipe">|</span>
+                    <div class="code">SVUCE</div>
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="branchcode">CSE</div>
+                    <div class="pipe"> | </div>
+                    <div class="chancesorange">High </div>
+                    <div class="pipe"> | </div>
+                    <div>Fee</div>
+                    <div>:</div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">JNTU Anantapur</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Anantapur                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTA</div>
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesred">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">Andhra University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    kakinada                  
+                    <span class="pipe">|</span>
+                    <div class="code">AUCE</div> 
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesgreen">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">JNTU kakinada</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    kakinada                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div> 
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesgreen">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">SV University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Tirupati                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div> 
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesred">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">JNTU Anantapur</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Anantapur                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div>  
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesorange">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">Andhra University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    kakinada                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div>
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesgreen">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">JNTU kakinada</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    kakinada                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div>  
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesred">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">SV University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Tirupati                  
+                    <span class="pipe">|</span>
+                    <div class="code">JNTK</div>  
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="chancesgreen">High </div>
+                    <div class="pipe"> | </div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+        <div class="clg">
+            <div class="cardtop">
+                <div class="institute">
+                    <a class="institutename" href="#">SV University</a>
+                    <img class="bookmark" src="file:///C:/Users/K%20LOKESH/Downloads/bookmarks%20icon.svg">
+                </div>
+                <div class="instituteloc">
+                  <i class="fas fa-map-marked-alt"></i>
+                    Tirupati                  
+                    <span class="pipe">|</span>
+                    <div class="code">SVUCE</div>
+                </div>
+            </div>
+            <div class="cardbottom">
+                <div class="courseanddetails">
+                    <div class="course">Computer science Engineering</div>
+                </div>
+                <div class="ch-fee">
+                    <div class="branchcode">CSE</div>
+                    <div class="pipe"> | </div>
+                    <div class="chancesorange">High </div>
+                    <div class="pipe"> | </div>
+                    <div>Fee</div>
+                    <div>:</div>
+                    <div class="fees">₹ 39,700</div>
+                </div>
+                <div class="cutofftable">
+                    <table>
+                        <thead>
+                            <tr>
+                                <td class="2020">2020 cutoff</td>
+                                <td class="2019">2019 cutoff</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="20cut">8734</td>
+                                <td class="19cut">7988</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="connectandsurvey">
+                    <div class="connect">Connect</div>
+                    <div class="survey">Survey</div>
+                </div>
+            </div>
+        </div>
+    </div>
+  <div class="pagination">
+    <i class="fas fa-chevron-left"></i>
+    <div class="pagenumber">
+    <a class="curr">1</a>
+    <a>/</a>
+    <a class="total">12</a>
+    </div>
+    <i class="fas fa-chevron-right"></i>
+  </div>
+</body>
